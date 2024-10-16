@@ -7,7 +7,7 @@ import shutil
 import nltk
 from nltk.corpus import stopwords
 
-# Making a change AKA making stuff
+# This is all fucked
 def __main__() -> None:
     index_preprocessing()
 
